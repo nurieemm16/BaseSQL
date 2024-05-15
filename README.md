@@ -1,0 +1,2 @@
+# BaseSQL
+Evaluación continua sql
